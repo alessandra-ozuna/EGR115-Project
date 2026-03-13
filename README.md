@@ -5,11 +5,14 @@ This project is a Python program that calculates how much an aircraft wing bends
 
 
 Below is a picture of the output once the code has been ran through.
+#
+#
+#
 ![Plotting of Wing](Picture1.png)
-
-
-
-
-Example of how it would look like in real life.
+#
+#
+#
+#
+Example of how it would look in real life.
 ![Wing Deflection Plot](plane_wing.png)
 
