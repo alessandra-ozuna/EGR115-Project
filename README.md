@@ -14,5 +14,6 @@ Below is a picture of the output once the code has been ran through.
 #
 #
 Example of how it would look in real life.
+
 ![Wing Deflection Plot](plane_wing.png)
 
